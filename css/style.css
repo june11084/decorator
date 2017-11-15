@@ -1,0 +1,21 @@
+.text {
+  float: right;
+}
+img {
+  display: block;
+  width: 500px;
+  height: auto;
+  float: left;
+}
+.column {
+  width: 300px;
+  float: left;
+}
+
+.column2 {
+  float: right;
+  text-shadow: yellow;
+  font-size: 40px;
+  font-stretch: expanded;
+  line-height: 700%;
+}
